@@ -39,7 +39,6 @@
 ### Objetivos
 
 - **Base teórica:** Aprofundar conhecimentos em Matemática e Física aplicados à computação.
-- **Hardware e Software:** Estudar eletrônica básica, sensores e microcontroladores.
 - **Desenvolvimento Fullstack:** Consolidar boas práticas e frameworks modernos de frontend e backend.
 - **Comunidade:** Contribuir com projetos open source e iniciativas educacionais de tecnologia.
 
